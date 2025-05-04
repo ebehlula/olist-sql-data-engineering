@@ -96,3 +96,11 @@ The final solution incorporates SQL best practices including error handling, per
 ## Requirements
 - Microsoft SQL Server 2016 or later
 - Olist dataset CSV files
+
+## Setup Instructions
+
+1. Create a SQL Server database
+2. Either:
+   - Execute the scripts in numerical order (if you want to build the database from scratch)
+   - [Restore the complete database backup](https://drive.google.com/drive/u/0/folders/1PHAmU2EV_skjYXZZ1VM_5fDOvChlIkfb) (fastest option)
+3. Adjust file paths in Task 1 to match your environment
